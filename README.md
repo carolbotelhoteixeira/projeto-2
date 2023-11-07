@@ -1,2 +1,2 @@
 # projeto-2
-Agenda telefônica
+Agenda telefônica (Exercício JS).
